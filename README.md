@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/hetielle/hetielle/gif/welcome1.gif" alt="Welcome" align="center"/>
+</div>
+
 ### Olá! Eu sou a Hetielle Vitória de Matos👋🏻
 - 🔭 Estou trabalhando na renovação do site do Hospital Centenário
 - 🌱 Estou aprendendo práticas avançadas de CSS
