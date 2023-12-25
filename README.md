@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/hetielle/hetielle/gif/welcome1.gif" alt="Welcome" align="center"/>
+  <img src="https://github.com/hetielle/hetielle/gif/welcome2.gif" alt="Welcome" align="center"/>
 </div>
 
 ### Olá! Eu sou a Hetielle Vitória de Matos👋🏻
