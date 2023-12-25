@@ -1,3 +1,7 @@
+<div align="left">
+  <img scr="https://tenor.com/pt-BR/view/welcome-images-server-transparent-bright-gif-26469709"/>
+</div>
+
 ### Olá! Eu sou a Hetielle Vitória de Matos👋🏻
 - 🔭 Estou trabalhando na renovação do site do Hospital Centenário
 - 🌱 Estou aprendendo práticas avançadas de CSS
