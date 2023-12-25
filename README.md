@@ -1,10 +1,6 @@
-<div align="center">
-  <img src="https://github.com/hetielle/hetielle/gif/welcome1.gif" alt="Welcome" align="center">
+<div align="right">
+  <img src="https://github.com/hetielle/hetielle/gif/welcome1.gif" alt="Welcome" align="right">
 </div>
-
-### Olá! Eu sou a Hetielle Vitória de Matos👋🏻
-- 🔭 Estou trabalhando na renovação do site do Hospital Centenário
-- 🌱 Estou aprendendo práticas avançadas de CSS
 
 <a href="https://github.com/hetielle/github-readme-stats">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=hetielle&rank_icon=github&show_icons=true&theme=midnight-purple&bg_color=00000000&include_all_commits=true" />
