@@ -1,5 +1,5 @@
-<div align="left">
-  <img scr="https://tenor.com/pt-BR/view/welcome-images-server-transparent-bright-gif-26469709"/>
+<div align="center">
+  <img src="https://github.com/hetielle/hetielle/raw/hetielle/gif/welcome1.gif" alt="Welcome" align="center">
 </div>
 
 ### Olá! Eu sou a Hetielle Vitória de Matos👋🏻
