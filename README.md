@@ -3,7 +3,7 @@
 - 🌱 Estou aprendendo práticas avançadas de CSS
   
 <a href="https://github.com/hetielle/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=hetielle&rank_icon=github&show_icons=true&theme=midnight-purple&bg_color=00000000&include_all_commits=true&include_all_contribuitions=true" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=hetielle&rank_icon=github&show_icons=true&theme=midnight-purple&bg_color=00000000&include_all_commits=true&include_all_contributions=true" />
 </a>
 <a href="https://github.com/hetielle/convoychat">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hetielle&layout=donut&langs_count=8&card_width=320&theme=midnight-purple&bg_color=00000000" />
