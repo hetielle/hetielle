@@ -9,6 +9,8 @@
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hetielle&layout=donut&langs_count=8&card_width=320&theme=midnight-purple&bg_color=00000000" />
 </a>
 
+## Tecnologias Utilizadas
+
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Heti-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -26,8 +28,15 @@
   <img align="center" alt="Heti-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 
 </div>
-  
-  ##
+
+## Ferramentas Utilizadas
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img align="center" alt="Evelyn-Ferramentas" src="https://skillicons.dev/icons?i=vscode,idea,eclipse,androidstudio,github,gitlab" />
+  </a>
+</p>
+
+##
  
 <div> 
   
