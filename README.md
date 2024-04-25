@@ -1,5 +1,6 @@
 ### Olá! Eu sou a Hetielle Vitória de Matos👋🏻
 - 🔭 Estou trabalhando na renovação do site do Hospital Centenário
+- 🔭 Sou bolsista no SOFTWARELAB na Unisinos com o projeto "Minha Saúde Digital"
 - 🌱 Estou aprendendo práticas avançadas de CSS
   
 <a href="https://github.com/hetielle/github-readme-stats">
